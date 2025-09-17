@@ -1,0 +1,29 @@
+
+2015-07-29 17:42:30,405 - INFO  [QuorumPeer[myid=2]/0:0:0:0:0:0:0:0:2181:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2015-07-29 19:03:35,413 - ERROR [LearnerHandler-/10.10.34.11:52225:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:03:54,584 - ERROR [LearnerHandler-/10.10.34.11:52241:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:04:30,989 - WARN  [LearnerHandler-/10.10.34.11:52264:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52264 ********
+2015-07-29 19:04:30,989 - ERROR [LearnerHandler-/10.10.34.11:52265:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:04:40,999 - ERROR [LearnerHandler-/10.10.34.11:52273:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:13:46,128 - WARN  [LearnerHandler-/10.10.34.11:52308:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52308 ********
+2015-07-29 19:14:06,236 - WARN  [LearnerHandler-/10.10.34.12:59060:LearnerHandler@575] - ******* GOODBYE /10.10.34.12:59060 ********
+2015-07-29 19:14:46,264 - WARN  [LearnerHandler-/10.10.34.12:59103:LearnerHandler@575] - ******* GOODBYE /10.10.34.12:59103 ********
+2015-07-29 19:14:56,371 - WARN  [LearnerHandler-/10.10.34.13:57247:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57247 ********
+2015-07-29 19:15:16,204 - ERROR [LearnerHandler-/10.10.34.11:52419:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:15:56,423 - WARN  [LearnerHandler-/10.10.34.13:57319:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57319 ********
+2015-07-29 19:16:06,243 - WARN  [LearnerHandler-/10.10.34.11:52476:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52476 ********
+2015-07-29 19:16:26,447 - ERROR [LearnerHandler-/10.10.34.13:57354:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:17:36,507 - ERROR [LearnerHandler-/10.10.34.13:57438:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:17:56,522 - WARN  [LearnerHandler-/10.10.34.13:57458:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57458 ********
+2015-07-29 19:18:26,565 - WARN  [LearnerHandler-/10.10.34.13:57502:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57502 ********
+2015-07-29 19:18:56,377 - WARN  [LearnerHandler-/10.10.34.11:52703:LearnerHandler@575] - ******* GOODBYE /10.10.34.11:52703 ********
+2015-07-29 19:18:56,457 - WARN  [LearnerHandler-/10.10.34.12:59406:LearnerHandler@575] - ******* GOODBYE /10.10.34.12:59406 ********
+2015-07-29 19:20:16,690 - ERROR [LearnerHandler-/10.10.34.12:59455:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:16,794 - WARN  [LearnerHandler-/10.10.34.13:57580:LearnerHandler@575] - ******* GOODBYE /10.10.34.13:57580 ********
+2015-07-29 19:20:36,704 - ERROR [LearnerHandler-/10.10.34.12:59480:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:46,814 - ERROR [LearnerHandler-/10.10.34.13:57617:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:20:56,605 - ERROR [LearnerHandler-/10.10.34.11:52814:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+2015-07-29 19:22:05,251 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@762] - Connection broken for id 188978561024, my id = 2, error = 
+2015-07-29 19:22:08,591 - WARN  [SendWorker:188978561024:QuorumCnxManager$SendWorker@688] - Send worker leaving thread
+2015-07-29 19:22:08,701 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@762] - Connection broken for id 188978561024, my id = 2, error = 
+2015-07-29 19:22:08,703 - INFO  [/10.10.34.12:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.13:42747
